@@ -23,6 +23,17 @@ Commercial release: **Erase That!** (Android/iOS, later WebGL)
 - UI end-to-end (menu + in-game), logic and interactions
 - Production: build preparation and iteration
 
+**Gameplay:**
+- point-and-click puzzle.
+- Click objects to trigger actions;
+- solve the correct sequence to clear the level.
+
+**Controls:**
+-Mouse click (interact).
+
+**Tutorial:**
+-Level 1 includes on-screen tutorial prompts.
+
 ---
 
 ### Neon Wavebound (Team project) — Unity demo (PC)
@@ -34,6 +45,14 @@ Commercial release: **Erase That!** (Android/iOS, later WebGL)
 - Built animated shaders/VFX used in-game
 - Added UI text animations (layout handled by another team member)
 
+**Gameplay**
+-control wavelength/amplitude; 
+-color/frequency changes affect interactions with enemies.
+
+**Controls** 
+- WASD (move/adjust)
+-  Space (parry). (Details in “How to Play” on MainMenu)
+
 ---
 
 ### ParasiteProject (Team project) — WIP / Alpha build
@@ -44,6 +63,12 @@ Commercial release: **Erase That!** (Android/iOS, later WebGL)
 - UI end-to-end: layout + logic (main menu + HUD + flows)
 - Level design: tilemap + lighting setup
 - Game design contribution + project coordination
+  
+**Gameplay**
+-Vampire-survivor-like with a possession twist: you can’t heal, you survive by possessing enemy corpses.
+
+**Controls** 
+WASD (move), Mouse (aim), Auto-shoot, space for possession (Alpha build)
 
 ---
 
@@ -53,3 +78,10 @@ Commercial release: **Erase That!** (Android/iOS, later WebGL)
 **My role**
 - Game design, project management and QA support
 - Hands-on QA: feature verification, regression checks, release readiness validation
+
+**Gameplay**
+-endless runner where you draw the path for the character and erase enemies (touch on mobile, mouse on web).
+
+**Controls** 
+-(Web): Mouse (draw/erase).
+-(Mobile: touch)
