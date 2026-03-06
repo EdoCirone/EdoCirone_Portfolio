@@ -17,6 +17,7 @@ Commercial release: **Erase That!** (Android/iOS, later WebGL)
 ### Doomotica (Solo project) — Unity demo (PC)
 - **Build:** https://edoardocirone.itch.io/doomotica-demo
 - **Repo:** https://github.com/EdoCirone/Doomotica_Puzzle
+- **Video:** https://www.youtube.com/watch?v=8J2VWyn0-yQ
 
 **What I did**
 - Full project ownership: gameplay, UI, implementation, integration, bugfixing
