@@ -1,4 +1,4 @@
-# Edoardo Cirone — Unity Developer (UI/Gameplay) | Junior QA (Mobile/Unity)
+# Edoardo Cirone — Unity Developer (UI/Gameplay/QA)
 
 Rome, Italy — P.IVA available  
 Commercial release: **Erase That!** (Android/iOS, later WebGL)
