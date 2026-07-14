@@ -106,3 +106,32 @@ Endless runner where you draw the path for the character and erase enemies (touc
 **Controls**
 - Web: Mouse (draw/erase)
 - Mobile: Touch
+
+
+# In Progress
+
+## RIOT / DISSENSO
+
+Hex-grid tactical combat game in development (Unity, C#).
+
+**Status:** active development, no public build yet.
+
+## What it is
+
+A turn-based tactical game on a hexagonal grid, focused on unit positioning, action-point management, and small-scale squad combat.
+
+## Core systems
+
+- **Hex adjacency & movement** — BFS-based adjacency logic for movement range and highlight
+- **ScriptableObject-driven architecture** — units and actions are defined as data, not hardcoded
+- **Unit actions** — action-point-based abilities (e.g. a rally action that heals morale to adjacent allies)
+- **Movement animation** — DOTween-based movement with bobbing animation
+
+## Known open issues
+
+- Interrupting movement doesn't yet clean up active DOTween tweens — risk of orphaned callbacks
+- Attack/charge animation duration is currently distance-independent, causing inconsistent visual speed across different distances
+
+## Tech stack
+
+Unity, C#, DOTween, ScriptableObjects
