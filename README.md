@@ -35,6 +35,26 @@ Point-and-click puzzle. Click objects to trigger actions and solve the correct s
 
 ---
 
+### Inventory System (Solo project) — Unity demo (technical showcase)
+
+**Repo:** https://github.com/EdoCirone/TestEdoCirone
+
+**What I did**
+Full inventory system: fixed-slot capacity, drag-and-drop, item pickup/drop in world
+Item effects via ScriptableObject (Heal, Damage, Speed, Strength) — adding a new effect requires no changes to existing systems
+Event-driven HUD (health/stats) and UI panels (inventory full, health full, player death), decoupled via a central panel manager
+Event-based audio system (UI sounds and gameplay sounds on separate channels)
+Animated inventory open/close, cascading slot reveal
+
+**Gameplay** 
+Pick up items in the world, manage a fixed-slot inventory, use items with different effects on the player, drag/swap/drop items freely.
+Controls
+
+Left click (pick up item / use item in slot)
+Drag (move/swap slots, drop outside inventory to release item into world)
+I (open/close inventory)
+
+---
 ### Neon Wavebound (Team project) — Unity demo (PC)
 - **Build:** https://reru96.itch.io/neon-wavebound
 - **Repo:** https://github.com/reru96/WavesProject
