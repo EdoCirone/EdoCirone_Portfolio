@@ -17,6 +17,8 @@ Commercial release: **Erase That!** (Android/iOS, later WebGL)
 
 ## Projects
 
+---
+
 ### Doomotica (Solo project) — Unity demo (PC)
 - **Build:** https://edoardocirone.itch.io/doomotica-demo
 - **Repo:** https://github.com/EdoCirone/Doomotica_Puzzle
@@ -89,6 +91,8 @@ Endless runner where you draw the path for the character and erase enemies (touc
 - Web: Mouse (draw/erase)
 - Mobile: Touch
 
+---
+
 ### Inventory System (Solo project) — Unity demo (technical showcase)
 
 **Repo:** https://github.com/EdoCirone/TestEdoCirone
@@ -109,7 +113,6 @@ Drag (move/swap slots, drop outside inventory to release item into world)
 I (open/close inventory)
 
 ---
-
 
 # In Progress
 
