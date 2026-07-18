@@ -10,6 +10,9 @@ Commercial release: **Erase That!** (Android/iOS, later WebGL)
 - Manual QA: feature testing, regression, build verification, structured bug reporting
 - Team collaboration and project coordination (PM responsibilities across multiple projects)
 
+## Links
+  https://edoardocirone.itch.io/
+
 ---
 
 ## Projects
